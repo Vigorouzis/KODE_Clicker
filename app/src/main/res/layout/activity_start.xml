@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/quantity_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="124dp"
+        android:padding="30dp"
+        android:text="Clicker"
+        android:textColor="#0D47A1"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/quantity_text_view"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="61dp"
+        android:onClick="Inc"
+        android:text="Click" />
+
+
+</RelativeLayout>

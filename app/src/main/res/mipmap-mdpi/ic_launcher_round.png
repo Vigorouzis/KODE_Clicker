@@ -1,0 +1,47 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="2" />
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="14" />
+      <entry action="Android.RunAndroidAvdManager" count="2" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="CodeCompletion" count="12" />
+      <entry action="ConvertJavaToKotlin" count="3" />
+      <entry action="DialogOkAction Enter" count="1" />
+      <entry action="EditorBackSpace" count="141" />
+      <entry action="EditorChooseLookupItem" count="11" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorDelete" count="40" />
+      <entry action="EditorDeleteLine" count="4" />
+      <entry action="EditorDown" count="31" />
+      <entry action="EditorEnter" count="12" />
+      <entry action="EditorLeft" count="21" />
+      <entry action="EditorPaste" count="7" />
+      <entry action="EditorRight" count="22" />
+      <entry action="EditorTab" count="1" />
+      <entry action="EditorUp" count="13" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="GotoAction" count="2" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="NewProject" count="2" />
+      <entry action="Run" count="8" />
+      <entry action="SaveAll" count="2" />
+      <entry action="SelectAllOccurrences" count="1" />
+      <entry action="ShowErrorDescription" count="1" />
+      <entry action="ShowSettings" count="5" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1526936840221" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="2" last-shown="0" last-used="1539026296607" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navig
